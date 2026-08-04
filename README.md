@@ -1,4 +1,4 @@
-## Random Password Generator
+## 🔐 Random Password Generator
 
 A beginner-friendly command-line application built with Python. The program generates strong random passwords based on the user's desired password length. Users can also choose whether to include special characters for enhanced password security.
 
